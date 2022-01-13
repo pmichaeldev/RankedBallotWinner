@@ -2,8 +2,11 @@
 Given votes cast using ranked ballots, the goal is to determine a winner by majority.
 Votes are cast using a Map consisting of a List of string candidates and an integer representing the total number of such ballots cast.
 An example ballot can be:
+
 A, B, C -> 4
+
 B, A, C -> 3
+
 etc.
 
 # Compilation
